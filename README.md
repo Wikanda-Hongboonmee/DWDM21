@@ -310,3 +310,6 @@ Data Warehouse &amp; Data Mining 2021
          * Retain & Evaluation
       * Data_Visualization
       * THE END
+* [ไฟล์นำเสนอ Group Project](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Group-Project%20(Present).pdf)
+
+
