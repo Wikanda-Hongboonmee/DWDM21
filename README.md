@@ -17,8 +17,9 @@ Data Warehouse &amp; Data Mining 2021
 
 5. **_นางสาววิกานดา   หงษ์บุญมี   623020764-2_**
 
+![image](https://user-images.githubusercontent.com/76931093/142454755-2aae905e-456a-4785-8c11-1c3f951af5fb.png)
+
 ## สารบัญเนื้อหา
-### ทฤษฎี (เนื้อหา)
 
 1. **บทที่ 1 INTRODUCTION**
    * [Lecture Chapter 1 Introduction](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Chapter%201.pdf)
@@ -313,6 +314,6 @@ Data Warehouse &amp; Data Mining 2021
       * THE END
 * [ไฟล์นำเสนอ Group Project](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Group-Project%20(Present).pdf)
 
-#**FINISH FINAL EXAM**
+## FINISH FINAL EXAM
 
 
