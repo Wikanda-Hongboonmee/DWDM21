@@ -144,6 +144,7 @@ Data Warehouse &amp; Data Mining 2021
 4. **บทที่ 4 Data Warehousing and On-line Analytical Processing**
    * [Lecture Chapter 4 Data Warehousing and On-line Analytical Processing](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Data%20Cube%20%26%20OLAP.pdf)
       * Data Warehouse คืออะไร
+      * Conceptual Modeling of Data Warehouse (Star Schema/Snowflake Schema/Fact constellations)
       * Data Cubes
       * Typical OLAP Operations
 5. **บทที่ 5 Association Rules**
@@ -173,8 +174,8 @@ Data Warehouse &amp; Data Mining 2021
          * การเลือก Attribute โดยคำนวณหาค่า Information Gain 
          * ตัวอย่างการคำนวณ 
          * [HW Decision Tree คำนวณมือ](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Decision-Tree.pdf)
-      * ส่วนที่ 2 Lecture Decision Tree
-         * [Decision Tree Induction: Algorithm](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Precision%20%26%20Recall%20%26%20F-measures.pdf)
+      * [ส่วนที่ 2 Lecture Decision Tree](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Precision%20%26%20Recall%20%26%20F-measures.pdf)
+         * Decision Tree Induction: Algorithm
             * Overfitting & Tree Prunning (ตัดแต่งกิ่งต้นไม้)
       * [Decision Tree](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Chapter_7_Classification_(Decision_Tree).ipynb)
         * Load Data
@@ -243,7 +244,7 @@ Data Warehouse &amp; Data Mining 2021
        * [เพอร์เซปตรอน (perceptron)](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
           * กฏการเรียนรู้เพอร์เซปตรอน
           * ตัวอย่างการเรียนฟังก์ชัน AND/XOR ด้วยกฏการเรียนรู้เพอร์เซปตรอน
-      * [Classifier Evaluation Metrics](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Precision%20%26%20Recall%20%26%20F-measures.pdf)
+       * [Classifier Evaluation Metrics](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Precision%20%26%20Recall%20%26%20F-measures.pdf)
          * Confusion Matrix, Accuracy, Error Rate, Sensitivity and Specificity
          * Precision, Recall and F-measures
          * ตัวอย่างการคำนวณ
@@ -311,5 +312,7 @@ Data Warehouse &amp; Data Mining 2021
       * Data_Visualization
       * THE END
 * [ไฟล์นำเสนอ Group Project](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Group-Project%20(Present).pdf)
+
+#**FINISH FINAL EXAM**
 
 
