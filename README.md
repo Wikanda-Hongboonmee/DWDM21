@@ -1,9 +1,9 @@
 # DWDM21
-Data Warehouse &amp; Data Mining 2021 
+## Data Warehouse &amp; Data Mining 2021 
 
-**_WIKANDA HONGBOONMEE  623020764-2_**
+**WIKANDA HONGBOONMEE 623020764-2**
 
-ชื่อกลุ่ม : เอกาไร้สติ
+### ชื่อกลุ่ม : เอกาไร้สติ
 
 **รายชื่อสมาชิกในกลุ่ม**
 
@@ -17,9 +17,12 @@ Data Warehouse &amp; Data Mining 2021
 
 5. **_นางสาววิกานดา   หงษ์บุญมี   623020764-2_**
 
+
+
 ![image](https://user-images.githubusercontent.com/76931093/142454755-2aae905e-456a-4785-8c11-1c3f951af5fb.png)
 
-## สารบัญเนื้อหา
+
+# สารบัญเนื้อหา
 
 1. **บทที่ 1 INTRODUCTION**
    * [Lecture Chapter 1 Introduction](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Chapter%201.pdf)
