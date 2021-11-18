@@ -155,7 +155,7 @@ Data Warehouse &amp; Data Mining 2021
       * Mining Frequent Itemsets
       * Association Rules
       * Apriori Algorithm คืออะไร / ตัวอย่างของ Apriori Algorithm 
-  * [Reduced_marketbasket](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb)
+   * [Reduced_marketbasket](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb)
       * ลบ records ที่ถูก cancel ออกไป
       * มีประเทศสาขาของ Supermarket นี้ทั้งหมดกี่ประเทศ
       * HW 13 วาดกราฟสรุปจำนวน items และยอดขายของแต่ละประเทศ
